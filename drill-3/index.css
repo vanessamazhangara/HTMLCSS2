@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(207, 200, 200);
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    align-items: flex-start;
+}
+
+.blue-box {
+    background-color: rgb(52, 97, 165);
+    width: 50px;
+    height: 10vh;
+    margin-top: 10px;
+    margin-left: 20px;
+
+
+}
+
+
+p {
+    background-color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: small;
+}
+
+.paragraph-2 {
+    margin-top: 0 auto;
+}
+
+.blue-rectangle {
+    background-color: rgb(52, 97, 165);
+    width: 100%;
+    height: 20vh;
+}
+
+.lime-rectangle {
+    background-color: rgb(133, 219, 154);
+    width: 100%;
+    height: 20vh;
+}
+
+.mint-rectangle {
+    background-color: rgb(76, 179, 156);
+    width: 100%;
+    height: 20vh;
+}
+
+.yellow-rectangle {
+    background-color: rgb(238, 240, 118);
+    width: 100%;
+    height: 20vh;
+}
